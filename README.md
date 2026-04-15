@@ -11,7 +11,7 @@ I am a Network Engineer and Developer focused on bridging the gap between physic
 
 ---
 
-### **{ Current Focus }**
+### ** Current Focus **
 * 🌐 **Networking:** Advanced Routing & Switching (CCNP candidate)
 * 🤖 **AI Development:** Python-based healthcare automation
 * 🛡️ **Security:** Hardening Linux environments & Cyber Threat Management
