@@ -3,7 +3,7 @@
 <a href="https://github.com/Tomas-Camaj">
   <img src="https://img.shields.io/badge/GitHub-Tomas-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/tomas-camaj-658942403/">
+<a href="https://www.linkedin.com/in/tomas-camaj-658942403/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="mailto:tomas.camaj@harryfultz.edu.al">
