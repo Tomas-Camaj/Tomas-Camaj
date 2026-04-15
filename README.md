@@ -1,4 +1,4 @@
-# Tomas
+# Hi, I'm Tomas
 
 <a href="https://github.com/Tomas-Camaj">
   <img src="https://img.shields.io/badge/GitHub-Tomas-181717?style=for-the-badge&logo=github" />
