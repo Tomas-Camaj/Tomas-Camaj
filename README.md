@@ -23,7 +23,7 @@ I am a Network Engineer and Developer focused on bridging the gap between physic
 
 ---
 
-### **{ Projects }**
+###  Projects
 > **[Ai Doctor](https://github.com/TomasCamaj/Mjeku-AI)** > *An intelligent healthcare solution utilizing custom-trained models for diagnostic assistance.*
 
 ---
