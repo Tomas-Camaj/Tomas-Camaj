@@ -1,16 +1,35 @@
-## Hi there 👋
+# 0xTomas 
 
-<!--
-**Tomas-Camaj/Tomas-Camaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://img.shields.io/badge/Network-CCNA-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Candidate-CCNP-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dev-Python%20%7C%20AI-success?style=flat-square" />
+</p>
 
-Here are some ideas to get you started:
+### **Architecture & Intelligence**
+I am a Network Engineer and Developer focused on bridging the gap between physical infrastructure and intelligent software. Currently scaling **Mjeku AI** and refining automated network solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### **{ Current Focus }**
+* 🌐 **Networking:** Advanced Routing & Switching (CCNP candidate)
+* 🤖 **AI Development:** Python-based healthcare automation
+* 🛡️ **Security:** Hardening Linux environments & Cyber Threat Management
+
+### **{ Tech Stack }**
+* **Infrastructure:** Cisco IOS, 2960-X Series, HP Z-Series Servers
+* **Languages:** Python, Bash, LaTeX (Technical Documentation)
+* **Operating Systems:** Linux (Debian/RHEL), Cisco NX-OS
+
+---
+
+### **{ Projects }**
+> **[Mjeku AI](https://github.com/TomasCamaj/Mjeku-AI)** > *An intelligent healthcare solution utilizing custom-trained models for diagnostic assistance.*
+
+---
+
+<p align="left">
+  <a href="https://instagram.com/your_handle_here">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+</p>
