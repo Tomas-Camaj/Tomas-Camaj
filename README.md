@@ -7,7 +7,7 @@
 </p>
 
 ### **Architecture & Intelligence**
-I am a Network Engineer and Developer focused on bridging the gap between physical infrastructure and intelligent software. Currently scaling **Mjeku AI** and refining automated network solutions.
+I am a Network Engineer and Developer focused on bridging the gap between physical infrastructure and intelligent software. Currently scaling Ai Doctor and refining automated network solutions.
 
 ---
 
@@ -24,7 +24,7 @@ I am a Network Engineer and Developer focused on bridging the gap between physic
 ---
 
 ### **{ Projects }**
-> **[Mjeku AI](https://github.com/TomasCamaj/Mjeku-AI)** > *An intelligent healthcare solution utilizing custom-trained models for diagnostic assistance.*
+> **[Ai Doctor](https://github.com/TomasCamaj/Mjeku-AI)** > *An intelligent healthcare solution utilizing custom-trained models for diagnostic assistance.*
 
 ---
 
